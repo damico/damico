@@ -1,4 +1,4 @@
-# José Damico — Founder, Builder, and AI Infrastructure Executive
+# José Damico: Founder, Builder, and AI Infrastructure Executive
 
 **CEO & Founder, SciCrop® | Creator of InfiniteStack | AI, Data Analytics, Agribusiness, Food Industry, and Infrastructure**
 
@@ -16,12 +16,12 @@ José is also the driving force behind **InfiniteStack**, SciCrop’s AI and ana
 
 InfiniteStack combines no-code and low-code capabilities with enterprise data architecture, supporting areas such as:
 
-- **Collect** — data ingestion and integration from enterprise, field, industrial, climate, geospatial, and market sources.
-- **Automate** — workflows, pipelines, orchestration, and process automation.
-- **Leverage** — AI models, analytics, forecasting, optimization, and decision-support applications.
-- **Catalog** — data discovery, governance, semantic organization, and controlled access.
-- **Observe** — monitoring, telemetry, dashboards, and operational visibility.
-- **Track** — traceability, lineage, usage, and auditability across data and AI assets.
+- **Collect**: data ingestion and integration from enterprise, field, industrial, climate, geospatial, and market sources.
+- **Automate**: workflows, pipelines, orchestration, and process automation.
+- **Leverage**: AI models, analytics, forecasting, optimization, and decision-support applications.
+- **Catalog**: data discovery, governance, semantic organization, and controlled access.
+- **Observe**: monitoring, telemetry, dashboards, and operational visibility.
+- **Track**: traceability, lineage, usage, and auditability across data and AI assets.
 
 The platform is built for cloud or on-premises deployment, allowing enterprise customers to maintain segregation, governance, and flexibility while still benefiting from SciCrop’s AI infrastructure and expertise.
 
