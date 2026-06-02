@@ -6,6 +6,8 @@ José Damico is a technology entrepreneur and executive based in São Paulo, Bra
 
 At SciCrop, José leads the company’s strategy to make AI a practical infrastructure layer for agribusiness and adjacent industries. His work focuses on enabling companies to optimize and predict complex processes, reduce costs, increase productivity, and improve decision-making across agricultural production, industrial operations, sustainability, logistics, trading, and corporate data governance.
 
+<img width="2667" height="4000" alt="damico1" src="https://github.com/user-attachments/assets/a19a2705-6da1-4772-be0f-3a87f2f1e1bd" />
+
 ## SciCrop and InfiniteStack
 
 SciCrop develops AI, geospatial analytics, data engineering, and integration solutions for large national and multinational companies. Its work spans satellite imagery, GIS, machine learning, industrial telemetry, IoT/IIoT, ERP and CRM data, climate data, market data, and operational intelligence.
