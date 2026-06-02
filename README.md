@@ -62,6 +62,13 @@ He is fluent in Portuguese, English, and Spanish, and actively works at the inte
 
 José Damico is an AI infrastructure entrepreneur for the real economy. Through SciCrop and InfiniteStack, he is building the bridge between advanced artificial intelligence and the operational complexity of agribusiness, food production, energy, and environmental sectors. His work is grounded in a clear belief: AI only becomes strategic when it is connected to governed data, domain expertise, robust engineering, and measurable business outcomes.
 
+## Contact
+
+- https://scicrop.com
+- https://infinitestack.ai
+- X / Instagram / Social: @josedamico
+- LinkedIn: in/josedamico
+
 <!--
 **damico/damico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
